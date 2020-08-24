@@ -1,0 +1,3 @@
+name: go_remote_proj
+runtime: go
+description: A minimal Go Pulumi program
